@@ -21,7 +21,6 @@ install_package() {
 }
 
 # Function to install Ansible based on the Linux distribution
-# Function to install Ansible based on the Linux distribution
 install_ansible() {
   if ! command -v ansible &>/dev/null; then
     echo "$(date '+%Y-%m-%d %H:%M:%S'): Ansible is not installed. Installing Ansible..."
