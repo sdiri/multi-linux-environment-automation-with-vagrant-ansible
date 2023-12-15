@@ -1,0 +1,2 @@
+# multi-linux-environment-automation-with-vagrant-ansible
+This repository hosts a versatile shell script tailored to automate lab environment setup across various Linux distributions (Ubuntu, AlmaLinux, Rocky Linux, etc.) using Vagrant. The script simplifies the installation of necessary packages, handles user management, automates SSH handshake, and facilitates Ansible setup on a single controller server
